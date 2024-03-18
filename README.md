@@ -38,7 +38,7 @@ The deployment of the OpenEX Token contracts on any network, especially the main
 
 ## 📬 Contact
 
-For further information and updates, follow us on [GitHub](https://github.com/openex_network). If you have specific questions or concerns, please reach out via our official channels.
+For further information and updates, follow us on [GitHub](https://github.com/openex-network). If you have specific questions or concerns, please reach out via our official channels.
 
 ## Official Links
 
